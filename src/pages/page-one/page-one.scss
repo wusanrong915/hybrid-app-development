@@ -1,0 +1,90 @@
+page-page-one {
+    ion-content{
+        padding: 0!important;
+        ul{
+            padding: 0!important;
+            border: 1px solid red;
+            margin:0;
+            .one{
+                text-align: center;
+                background-image: url(./../assets/imgs/bg1.png) ;
+                background-size:100% 100%;
+                div{
+                    p{
+                        display:block;
+                        margin-bottom: -22px;
+                        opacity: 1;
+                        color: #fff;
+                        font-size: 23px;
+                        font-weight: bold;
+                    }
+                }
+                
+                h6{
+                    font-size: 16px;
+                    opacity: 1;
+                    color: #fff;
+                    margin-top: 30px;
+                }
+            }
+            .two{
+                text-align: center;
+                background-image: url(./../assets/imgs/bg2.png) ;
+                background-size:100% 100%;
+                div{
+                    p{
+                        display:block;
+                        margin-bottom: -22px;
+                        opacity: 1;
+                        color: #fff;
+                        font-size: 23px;
+                        font-weight: bold;
+                    }
+                }
+                
+                h6{
+                    font-size: 16px;
+                    opacity: 1;
+                    color: #fff;
+                    margin-top: 30px;
+                }
+            }
+            .three{
+                text-align: center;
+                background-image: url(./../assets/imgs/bg3.png) ;
+                background-size:100% 100%;
+                div{
+                    p{
+                        display:block;
+                        margin-bottom: -22px;
+                        opacity: 1;
+                        color: #fff;
+                        font-size: 23px;
+                        font-weight: bold;
+                    }
+                }
+                
+                h6{
+                    margin-top: 30px;
+                    font-size: 16px;
+                    opacity: 1;
+                    color: #fff;
+                }
+            }
+            li{
+                height: 300px;
+                width: 100%;
+               
+                div{
+                    background-color:gray;
+                    opacity: 0.5;
+                    width: 50%;
+                    height: 50%;
+                    position: relative;
+                    top: 18%;
+                    left: 25%;
+                }
+            }
+        }
+    }
+}
